@@ -1,0 +1,25 @@
+#header-nav{
+    background-color: gray;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-default .navbar-brand{
+    color: black;
+    margin-top: -25px;
+}
+
+.container{
+    height:100px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+.visible-xs{
+    background-color: rgb(107, 107, 107);
+    color: black;
+    line-height: 25px;
+    text-align: center;
+}

@@ -1,0 +1,51 @@
+* {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+.ourmenu{
+    font-size: 175%;
+    font-weight: bold;
+    padding: 20px;
+}
+
+#chicken{
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 125%;
+}
+
+#beef{
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 125%;
+}
+
+#sushi{
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 125%;
+}
+
+.section{
+    border: 1px solid black;
+    background-color: rgb(160, 160, 160);
+    margin: 5px;
+    padding: 10px;
+    float: none;
+    height: max-content;
+    width: auto;
+}
+
+p {
+    padding-top: 20px;
+}
