@@ -20,6 +20,5 @@
 .visible-xs{
     background-color: rgb(107, 107, 107);
     color: black;
-    line-height: 25px;
-    text-align: center;
+    line-height: 0.1px;
 }
